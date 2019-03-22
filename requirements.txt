@@ -1,0 +1,6 @@
+attr
+cattrs
+Faker
+requests
+pytest
+simplejson
